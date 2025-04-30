@@ -94,11 +94,12 @@ Key findings from data visualization:
 3. Develop real-time prediction capabilities
 4. Expand dataset for improved generalizability
 
+**Technology Stack**: R, ggplot2, SVM  
+**Dataset**: MSFactors.csv (1931 observations)
+
 ---
 
 ## 👩‍💻 Author
 
 Khor You Qi  
 [LinkedIn: khor-you-qi-tracy](https://www.linkedin.com/in/khor-you-qi-tracy/)
-**Technology Stack**: R, ggplot2, SVM  
-**Dataset**: MSFactors.csv (1931 observations)
